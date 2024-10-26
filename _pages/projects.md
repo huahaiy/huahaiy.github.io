@@ -37,6 +37,9 @@ More details can be found on [Juji Web site](https://juji.io).
 Datalevin
 ---
 
+![Clojars Downloads](https://img.shields.io/clojars/dt/datalevin)
+
+
 This is an open-source database that I have been working on since 2020. It is a
 new generation of general purpose database that is much more ergonomic than
 traditional SQL RDBMS, while still has the benefits of relational databases
@@ -53,6 +56,8 @@ I plan to continue this work indefinitely. [github](https://github.com/juji-io/d
 
 Editscript
 ---
+
+![Clojars Downloads](https://img.shields.io/clojars/dt/juji%2Feditscript)
 
 This is an open-source Clojure library I wrote to diff/patch data structures. It
 is widely used to support data diff based software architecture in the Clojure
