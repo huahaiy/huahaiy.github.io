@@ -10,7 +10,7 @@ author_profile: true
 These are links to some of my notable blog posts that drew some attention.
 
 * [Achieving High Throughput and Low Latency through Adaptive Asynchronous
-  Transaction](https://yyhh.org/blog/2025/02/achieving-high-throughput-and-low-latency-through-adaptive-asynchronous-transaction/)
+  Transaction](https://yyhh.org/blog/2025/02/achieving-high-throughput-and-low-latency-through-adaptive-asynchronous-transaction/), 2025
 * [Competing for the JOB with a
   Triplestore](https://yyhh.org/blog/2024/09/competing-for-the-job-with-a-triplestore), 2024
 * [How can AI like ChatGPT be turned into gold in
