@@ -21,7 +21,7 @@ Juji is the leading conversational agent platform that allows customers to
 retain total control while using generative AI, a unique yet critical capability
 that enables successful enterprise use of generative AI.
 
-I have written some high level overviews.
+I have given talk talks and written about Juji platform.
 
 * [How can AI like ChatGPT be turned into gold in
   enterprises?](https://juji.io/blog/how-can-you-turn-ai-like-chatgt-into-gold-in-enterprise/)
@@ -59,7 +59,7 @@ I have written some articles about Datalevin.
 * [T-Wand: Beat Lucene in Less Than 600 Lines of
   Code](https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/)
 
-The work on Datalevin is ongoing.
+The work on Datalevin is ongoing. [github](https://github.com/juji-io/datalevin)
 
 Editscript
 ---
@@ -67,8 +67,8 @@ Editscript
 [![Clojars Downloads](https://img.shields.io/clojars/dt/juji%2Feditscript)](https://clojars.org/juji/editscript)
 
 This is an open-source Clojure library I wrote to diff/patch data structures. It
-is widely used to support data diff based software architecture in the Clojure
-community.
+is widely in the Clojure community. I have given a talk on its use: [Data Diffing Based Software
+Architecture Patterns](https://youtu.be/n-avEZHEHg8?si=_okX3Qexb5JtlYOf)
 
 The work on the library is mostly done, but I am still maintaining it.
 [github](https://github.com/juji-io/editscript)
