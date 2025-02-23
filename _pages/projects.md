@@ -32,7 +32,7 @@ I have written some high level overviews.
 * [A Clojure Fusion of Symbolic and Data Driven
   AI.](https://www.youtube.com/watch?v=phA4bMjKvCY&t=5s) in 2018
 
-More details can be found on [Juji Web site](https://juji.io).
+More details can be found on [Juji Documentation site](https://juji.io/docs).
 
 Datalevin
 ---
@@ -40,19 +40,26 @@ Datalevin
 [![Clojars Downloads](https://img.shields.io/clojars/dt/datalevin)](https://clojars.org/datalevin)
 
 
-This is an open-source database that I have been working on since 2020. It is a
-new generation of general purpose database that is much more ergonomic than
+This is an open-source database that I have been working on. It is a new
+generation of general purpose database that is much more ergonomic than
 traditional SQL RDBMS, while still has the benefits of relational databases
-(unlike those NoSQL DBs). Read [this
-article](https://yyhh.org/blog/2024/09/competing-for-the-job-with-a-triplestore/)
-for details.
+(unlike those NoSQL DBs). Datalevin uses a user friendly favor of Datalog as the
+query language and is good at deductive reasoning and analytics. My
+goal is not just to compete with existing databases, but also to lay the
+foundation for advanced artificial intelligence of the future: Just like memory
+is the center of human cognition, databases ought to serve the same purpose in
+artificial intelligence.
 
-Datalevin uses Datalog as the query language and is good at deductive reasoning
-and analytical data processing. My goal is not just to compete with existing
-databases, but also to lay the foundation for advanced artificial intelligence
-of the future.
+I have written some articles about Datalevin.
 
-I plan to continue this work indefinitely. [github](https://github.com/juji-io/datalevin)
+* [Achieving High Throughput and Low Latency through Adaptive Asynchronous
+  Transaction](https://yyhh.org/blog/2025/02/achieving-high-throughput-and-low-latency-through-adaptive-asynchronous-transaction/)
+* [Competing for the JOB with a
+  Triplestore](https://yyhh.org/blog/2024/09/competing-for-the-job-with-a-triplestore/)
+* [T-Wand: Beat Lucene in Less Than 600 Lines of
+  Code](https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/)
+
+The work on Datalevin is ongoing.
 
 Editscript
 ---

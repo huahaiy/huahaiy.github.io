@@ -7,22 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-A technology leader with over 15 years of proven track record in architecting and shipping high-impact products in artificial intelligence, machine learning, and data systems. A seasoned system architect with a knack for pragmatic innovation, adept at transforming research into effective solutions. Successfully built and led high-performing R&D teams.
+A technology leader with over 15 years of proven track record in shipping
+high-impact products. Expert in conversational AI agent systems, human-computer
+interaction, and data systems. A seasoned system architect with a knack for
+pragmatic innovation, adept at transforming research into effective solutions.
+Successfully built and led high-performing R&D teams.
 
-* **Stellar record in R&D.** Led the development of an award-winning AI agent system
-  that seamlessly integrates generative AI and symoblic AI to achieve
-  market-leading capabilities. Pioneered a machine learning based psychometric
-  inference engine with reliability and validity verified by third-party
-  publications in top research journals. Delivered an interactive data analytics
-  system along with several other revenue generating production software
-  systems.
+* **Stellar record in R&D.** Led the development of an award-winning AI agent
+  system that seamlessly integrates generative AI and traditional approaches to
+  achieve market-leading capabilities. Pioneered a machine learning based
+  psychometric inference engine with reliability and validity verified by
+  third-party publications in top research journals. Delivered an interactive
+  data analytics system along with several other revenue generating production
+  software systems.
 
-* **Deep AI expertise with diverse background.** Possesses deep expertise in
-  human-centric AI backed by databases, with experience across a wide spectrum
-  of fields including ML, DB, NLP, IR, InfoVis, VR, UX, cognition,
-  psychometrics, and more. Worked in various environments ranging from startups
-  to enterprise research center, universities, and academic research institute.
-  Established numerous ties for collaboration and talent acquisition.
+* **Deep expertise with diverse background.** Possesses deep expertise in
+  human-centric AI agent platform, with experience across a wide spectrum
+  of fields including HCI, UX, InfoVis, VR, NLP, IR, ML, DB, cognition,
+  psychometrics, and more. Worked in various environments ranging from startup
+  to enterprise research center, and universities.
 
 * **Outstanding hands-on technical ability.** Craftsman in software system
   design and implementation, personally owned large codebases central to
