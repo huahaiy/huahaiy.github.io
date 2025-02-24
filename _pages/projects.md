@@ -21,7 +21,7 @@ Juji is the leading conversational agent platform that allows customers to
 retain total control while using generative AI, a unique yet critical capability
 that enables successful enterprise use of generative AI.
 
-I have given talk talks and written about Juji platform.
+I have given talks and written about Juji platform.
 
 * [How can AI like ChatGPT be turned into gold in
   enterprises?](https://juji.io/blog/how-can-you-turn-ai-like-chatgt-into-gold-in-enterprise/)
