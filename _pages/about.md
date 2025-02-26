@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 A technology leader with over 15 years of proven track record in shipping
-high-impact products. Expert in conversational AI agent systems, human-computer
-interaction, and data systems. A seasoned system architect with a knack for
-pragmatic innovation, adept at transforming research into effective solutions.
-Successfully built and led high-performing R&D teams.
+high-impact enterprise software products. Expert in AI agent systems,
+human-computer interaction, and data systems. A seasoned system architect with a
+knack for pragmatic innovation, adept at transforming research into effective
+solutions. Successfully built and led high-performing R&D teams.
 
 * **Stellar record in R&D.** Led the development of an award-winning AI agent
-  system that seamlessly integrates generative AI and traditional approaches to
+  platform that seamlessly integrates generative AI and traditional approaches to
   achieve market-leading capabilities. Pioneered a machine learning based
   psychometric inference engine with reliability and validity verified by
   third-party publications in top research journals. Delivered an interactive
@@ -33,11 +33,10 @@ Successfully built and led high-performing R&D teams.
   community, known for their non-trivial technical depth, such as Datalevin and
   Editscript.
 
-* **Excellent technical communication skills.** Co-authored more than 30
-  peer-reviewed academic papers and granted 9 patents, among many other
-  publications. A regular speaker at developer conferences and recognized as a
-  thought-leader, with technical essays often appeared on the front page of
-  Hacker News.
+* **Excellent technical communication skills.** Co-authored more than 40
+  peer-reviewed academic papers and granted 9 patents. A regular speaker at
+  developer conferences and recognized as a thought-leader, with technical
+  essays often appeared on the front page of Hacker News.
 
 * **Strong business acumen.** Experienced startup co-founder, well-versed in
   business operations, strategies, and market dynamics. Successfully
