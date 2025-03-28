@@ -10,7 +10,7 @@ author_profile: true
 I have worked on so many projects over the years. This page lists some recent active
 projects.
 
-Juji Platform
+[Juji Platform](https://juji.io)
 ---
 
 I drive R&D of Juji Platform, an AI conversational agent platform that is the
@@ -34,7 +34,7 @@ I have given talks and written about Juji platform.
 
 More details can be found on [Juji Documentation site](https://juji.io/docs).
 
-Datalevin
+[Datalevin](https://github.com/juji-io/datalevin)
 ---
 
 [![Clojars Downloads](https://img.shields.io/clojars/dt/datalevin)](https://clojars.org/datalevin)
@@ -61,7 +61,7 @@ I have written some articles about Datalevin.
 
 The work on Datalevin is ongoing. [github](https://github.com/juji-io/datalevin)
 
-Editscript
+[Editscript](https://github.com/juji-io/editscript)
 ---
 
 [![Clojars Downloads](https://img.shields.io/clojars/dt/juji%2Feditscript)](https://clojars.org/juji/editscript)
