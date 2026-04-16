@@ -27,7 +27,7 @@ approaches to achieve market-leading capabilities in grounding and control of
 conversational agents.
 
 Prior to joining the startup world, Huahai pioneered a machine learning based
-psychometric inference approach at IBM Almaden Research Center, where he was
+psychometric inference approach at IBM Almaden Research Center, where he was a
 research staff member. His research contributions span a wide spectrum of fields
 including HCI, UX, InfoVis, VR, NLP, IR, ML, and DB, with more than 40
 peer-reviewed academic papers and 9 granted patents.
