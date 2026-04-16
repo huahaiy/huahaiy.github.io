@@ -11,15 +11,6 @@ Full-text can be found on [Google Scholar
 ](https://scholar.google.com/citations?user=KvPSD8EAAAAJ),
 [ResearchGate](https://www.researchgate.net/profile/Huahai-Yang) or [Google Patents](https://patents.google.com/?inventor=huahai+yang).
 
-Books
----
-
-* Huahai Yang. Datalevin: the Definite Guide to Logical and Intelligent
-  Databases. In preparation.
-
-* Michelle X. Zhou, Jie Lu, Huahai Yang, and Wenxi Chen. Human-Centered Agentic
-  AI: Fundamentals, Practice, Applications, and Future Directions. ACM Press. In
-  press.
 
 Referred Journal Articles
 ---
