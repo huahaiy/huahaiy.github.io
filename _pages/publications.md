@@ -12,6 +12,13 @@ Full-text can be found on [Google Scholar
 [ResearchGate](https://www.researchgate.net/profile/Huahai-Yang) or [Google Patents](https://patents.google.com/?inventor=huahai+yang).
 
 
+Book
+---
+
+* Huahai Yang, Datalevin: the Definite Guide to Intelligent and Logical
+  Databases. Calero Creek Press, 2026. [Amazon](https://www.amazon.com/dp/B0H8X1QF2Q/)
+
+
 Referred Journal Articles
 ---
 

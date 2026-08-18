@@ -24,7 +24,7 @@ One of the main innovation of Xia is its human-like memory architecture that
 separate episodic from semantic memories, and a hippocampus for consolidation of
 knowledge. Xia's internal state representation separates persistent goals from
 transient states, and is robust in handling long horizon tasks. The vision of
-Xia is to become an OS of intelligence.
+Xia is to become an OS of intelligence. The work on Xia is ongoing.
 
 [Datalevin](https://github.com/datalevin/datalevin)
 ---
@@ -52,12 +52,24 @@ I have written some articles about Datalevin.
 
 The work on Datalevin is ongoing. [github](https://github.com/juji-io/datalevin)
 
+[Editscript](https://github.com/juji-io/editscript)
+---
+
+[![Clojars Downloads](https://img.shields.io/clojars/dt/juji%2Feditscript)](https://clojars.org/juji/editscript)
+
+This is an open-source Clojure library I wrote to diff/patch data structures. It
+is widely in the Clojure community. I have given a talk on its use: [Data Diffing Based Software
+Architecture Patterns](https://youtu.be/n-avEZHEHg8?si=_okX3Qexb5JtlYOf)
+
+The work on the library is ongoing.
+[github](https://github.com/juji-io/editscript)
+
 [Juji Platform](https://juji.io)
 ---
 
 I drove R&D of Juji Platform, an AI conversational agent platform that is the
 basis of Juji Studio, Juji IDE and Juji API products of [Juji
-Inc.](https://juji.io).
+Inc.](https://juji.io). Accenture acquired Juji in 2026.
 
 Juji is the leading conversational agent platform that allows customers to
 retain total control while using generative AI, a unique yet critical capability
@@ -75,15 +87,3 @@ I have given talks and written about Juji platform.
   AI.](https://www.youtube.com/watch?v=phA4bMjKvCY&t=5s) in 2018
 
 More details can be found on [Juji Documentation site](https://juji.io/docs).
-
-[Editscript](https://github.com/juji-io/editscript)
----
-
-[![Clojars Downloads](https://img.shields.io/clojars/dt/juji%2Feditscript)](https://clojars.org/juji/editscript)
-
-This is an open-source Clojure library I wrote to diff/patch data structures. It
-is widely in the Clojure community. I have given a talk on its use: [Data Diffing Based Software
-Architecture Patterns](https://youtu.be/n-avEZHEHg8?si=_okX3Qexb5JtlYOf)
-
-The work on the library is mostly done, but I am still maintaining it.
-[github](https://github.com/juji-io/editscript)
