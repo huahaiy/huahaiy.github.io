@@ -10,7 +10,7 @@ redirect_from:
 Dr. Huahai Yang is a Managing Director of the Center for Advanced AI at
 Accenture, where he helps enterprises transform their organizations and
 businesses through the strategic use of AI and data. His expertise is on agentic
-AI and database architectures.
+AI, database architectures and machine learnings.
 
 He is the creator of [Datalevin](https://datalevin.org), an
 open-source Datalog-powered database that unifies relational, graph, logical,
