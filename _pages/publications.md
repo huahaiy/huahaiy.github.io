@@ -12,7 +12,7 @@ Full-text can be found on [Google Scholar
 [ResearchGate](https://www.researchgate.net/profile/Huahai-Yang) or [Google Patents](https://patents.google.com/?inventor=huahai+yang).
 
 
-Book
+Books
 ---
 
 * Huahai Yang, Datalevin: the Definite Guide to Intelligent and Logical
