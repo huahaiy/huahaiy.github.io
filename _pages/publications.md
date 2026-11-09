@@ -68,6 +68,10 @@ Referred Conference Papers
 
 Referred Conference Abstracts or Workshop Papers
 ===
+* Huahai Yang. The Graph Is Not Given: A Declarative Semantic Layer for Relational
+  Foundation Models. Poster presented at the [Stanford Data-Centric AI Workshop:
+  Foundations, Agents, and Scientific Discovery](https://snap.stanford.edu/graphlearning-workshop-2026/),
+  November 3, 2026. [Poster PDF]({{ base_path }}/files/the-graph-is-not-given-poster.pdf).
 * Huahai Yang. Data Diffing Based Software Architecture Patterns In
 Clojure/North, 2020
 * Huahai Yang A Clojure Fusion of Symbolic and Data Driven AI In Clojure Conj, 2018
